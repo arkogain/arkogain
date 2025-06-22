@@ -3,7 +3,7 @@
 ## I am a Fullstack Developer
 
 # 💫 About Me:
-🔭 I’m currently working on **Central Institute Of Technology**<br>💬 Ask me about **React,Tailwind CSS,TypeScript,JavaScript**<br>📫 How to reach me **arkogain235@gmail.com**
+🔭 I’m currently working on **Central Institute Of Technology**<br>💬 Ask me about **React, Tailwind CSS, TypeScript, JavaScript**<br>📫 How to reach me **arkogain235@gmail.com**
 
 
 ## 🌐 Socials:
